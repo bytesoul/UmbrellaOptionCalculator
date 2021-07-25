@@ -1,12 +1,12 @@
 # UmbrellaOptionCalculator
 Uses the Umbrella Network to calculate the price of an option
 
-To run clone the repo and then run 'npm install'
+To run clone the repo and then run '''npm install'''
 
 Replace the example.env with an .env with your own keys
   The example is using the kovan testnet values
 
-Then 'npm start' will execute
+Then '''npm start''' will execute
   This result will be an Eth option price based on data from the umbrella network and the Black-Scholes pricing model
   
   

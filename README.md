@@ -23,5 +23,5 @@ Then ```npm start``` will execute
    * Consider adding in Treasury bond yields to you set of keys
     
 ## Conclusion
-    I thoroughly enjoyed working with the Umbrella Network and its api and I think it is in an excellent position to help programmers build awesome on chain option products that the space is lacking at the moment. I look forward to the continued growth of the project.   
+  I thoroughly enjoyed working with the Umbrella Network and its api and I think it is in an excellent position to help programmers build awesome on chain option products that the space is lacking at the moment. I look forward to the continued growth of the project.   
   
